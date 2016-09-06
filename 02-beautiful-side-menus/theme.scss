@@ -1,0 +1,39 @@
+$SIDEMENU_TOP: #ff4b1f;
+$SIDEMENU_BOTTOM: #ff9068;
+$SIDEMENU_TRANSPARENCY: rgba(255,255,255,0.4);
+
+.side-menu-item{
+    background:none;
+    color:white;
+    font-weight:300;
+    border:0px;
+    .item-content{
+        background:none;
+        &.activated{
+            background: $SIDEMENU_TRANSPARENCY;
+        }
+    }
+    &.active-page-highlight{
+        .item-content{
+            background: $SIDEMENU_TRANSPARENCY;
+        }
+    }
+}
+
+.side-menu-gradient{
+    background: -webkit-linear-gradient(left top, $SIDEMENU_TOP, $SIDEMENU_BOTTOM);
+    background: -o-linear-gradient(bottom right, $SIDEMENU_TOP, $SIDEMENU_BOTTOM);
+    background: -moz-linear-gradient(bottom right, $SIDEMENU_TOP, $SIDEMENU_BOTTOM);
+    background: linear-gradient(to bottom right, $SIDEMENU_TOP, $SIDEMENU_BOTTOM);
+}
+
+.profile-image{
+    img{
+        border-radius:50%;
+        margin:10px;
+        border: 4px solid $SIDEMENU_TRANSPARENCY;
+        -webkit-box-shadow: 0px 0px 142px -37px rgba(0,0,0,0.75);
+        -moz-box-shadow: 0px 0px 142px -37px rgba(0,0,0,0.75);
+        box-shadow: 0px 0px 142px -37px rgba(0,0,0,0.75);
+    }
+}
