@@ -1,2 +1,2 @@
 # Beautiful Side Menus
-
+Use our SCSS feature to make an awesome looking Side-Menu for your app. Follow along with the [video tutorial](https://www.youtube.com/watch?v=Wb0weT3vD6I) and use the code here to add it to your app!
