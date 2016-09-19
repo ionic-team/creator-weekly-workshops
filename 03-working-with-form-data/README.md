@@ -1,2 +1,2 @@
 # Working with Form Data
-Use $scope in your Controllers to rig up a form to actual data your page can access, then send it to another page using our Route Parameters. Follow along with the [video tutorial]() and use the code here to add it to your app!
+Use $scope in your Controllers to rig up a form to actual data your page can access, then send it to another page using our Route Parameters. Follow along with the [video tutorial](https://www.youtube.com/watch?v=JWtUxuhC4Ng) and use the code here to add it to your app!
