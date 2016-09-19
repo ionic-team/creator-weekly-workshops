@@ -1,4 +1,4 @@
-# Working with Form Data
+# Ionic Auth Part #1 and Part #2
 
 NOTE: This tutorial follows after our [Beautiful Side Menu tutorial](../02-beautiful-side-menus) for some of the visual effects and design of the Side Menu.
 
