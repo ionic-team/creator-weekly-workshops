@@ -11,6 +11,8 @@ function ($scope, $stateParams, $ionicUser, $ionicAuth, $state) {
     $scope.error = '';
     
     if ($ionicAuth.isAuthenticated()) {
+        // Make sure the user data is going to be loaded
+        $ionicUser.load().then(function() {});
         $state.go('menu.home'); 
     }
     
