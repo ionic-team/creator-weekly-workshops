@@ -10,5 +10,5 @@ Here we use the SCSS feature along with a custom directive to make a great looki
 ## Working with Form Data ([YouTube](https://www.youtube.com/watch?v=JWtUxuhC4Ng), [Code](03-working-with-form-data))
 Use $scope in your Controllers to rig up a form to actual data your page can access, then send it to another page using our Route Parameters.
 
-## Ionic Auth Part #1 and Part #2 ([YouTube](), [Code](04-ionic-auth-and-gravatar))
+## Ionic Auth Part #1 and Part #2 ([Part 1](https://www.youtube.com/watch?v=T7RKbd5fLag), [Part 2](https://www.youtube.com/watch?v=McBS4fbPt5Q), [Code](04-ionic-auth-and-gravatar))
 Integrate our Beautiful Side Menus app with Ionic Auth and Gravatar to provide Login, Logout, Signup, and show the users Name and Picture.
