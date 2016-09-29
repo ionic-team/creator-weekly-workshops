@@ -12,3 +12,6 @@ Use $scope in your Controllers to rig up a form to actual data your page can acc
 
 ## Ionic Auth Part #1 and Part #2 ([Part 1](https://www.youtube.com/watch?v=T7RKbd5fLag), [Part 2](https://www.youtube.com/watch?v=McBS4fbPt5Q), [Code](04-ionic-auth-and-gravatar))
 Integrate our Beautiful Side Menus app with Ionic Auth and Gravatar to provide Login, Logout, Signup, and show the users Name and Picture.
+
+## Build a Simple Chat App ([YouTube](), [Code](05-build-a-simple-chat-app))
+Add Firebase to your app to get a realtime chat up and running quickly. We used Ionic Auth as well to grab the users name and email.
