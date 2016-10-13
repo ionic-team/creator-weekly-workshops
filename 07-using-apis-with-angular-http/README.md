@@ -1,0 +1,3 @@
+# Using APIs with Angular $http Part 1: Storing Survey Responses in Google Spreadsheets
+
+We connect Creator to an API (A Google Spreadsheet with [Sheetsu](https://sheetsu.com/pricing?ionic=is-awesome)) to store our data using Angular $http. Follow along with the [video tutorial](https://www.youtube.com/watch?v=DJotOLNrM8M&index=21&list=PLOMESIqyrpf-rpNjFGzuCoTwNdv_-PUD1) and use the code here to add it to your app!
