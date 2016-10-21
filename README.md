@@ -21,3 +21,6 @@ Learn how to take advantage of full HTML Pages in Creator to accomplish anything
 
 ## Using APIs with Angular $http Part 1 ([YouTube](https://www.youtube.com/watch?v=DJotOLNrM8M&index=21&list=PLOMESIqyrpf-rpNjFGzuCoTwNdv_-PUD1), [Code](07-using-apis-with-angular-http))
 We connect Creator to an API (A Google Spreadsheet with [Sheetsu](https://sheetsu.com/pricing?ionic=is-awesome)) to store our data using Angular $http.
+
+## Using APIs with Angular $http Part 2 ([YouTube](https://www.youtube.com/watch?v=ZvF2_ZpqZpk&list=PLOMESIqyrpf-rpNjFGzuCoTwNdv_-PUD1&index=22), [Code](08-using-apis-with-angular-http-part2))
+We add GET, DELETE, and QUERY to our [Sheetsu](https://sheetsu.com/pricing?ionic=is-awesome) app from Part one using Angular $http
