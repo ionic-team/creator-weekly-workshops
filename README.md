@@ -24,3 +24,6 @@ We connect Creator to an API (A Google Spreadsheet with [Sheetsu](https://sheets
 
 ## Using APIs with Angular $http Part 2 ([YouTube](https://www.youtube.com/watch?v=ZvF2_ZpqZpk&list=PLOMESIqyrpf-rpNjFGzuCoTwNdv_-PUD1&index=22), [Code](08-using-apis-with-angular-http-part2))
 We add GET, DELETE, and QUERY to our [Sheetsu](https://sheetsu.com/pricing?ionic=is-awesome) app from Part one using Angular $http
+
+## Toggling Content with Button Bars ([YouTube](https://www.youtube.com/watch?v=6lgQTrbb2cc&index=23&list=PLOMESIqyrpf-rpNjFGzuCoTwNdv_-PUD1), [Code](09-toggling-content))
+Use a $scope variable to toggle between different sets of content with a Button Bar. We also use a Toggle to show and hide content.

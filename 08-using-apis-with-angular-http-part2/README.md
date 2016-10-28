@@ -1,3 +1,3 @@
 # Using APIs with Angular $http Part 2: Retrieving, Deleting, & Querying Survey Responses
 
-We connect Creator to an API (A Google Spreadsheet with [Sheetsu](https://sheetsu.com/pricing?ionic=is-awesome)) to store our data using Angular $http. In Par 2 we add GET, DELETE, and QUERY features to the app. Follow along with the [video tutorial](https://www.youtube.com/watch?v=ZvF2_ZpqZpk&list=PLOMESIqyrpf-rpNjFGzuCoTwNdv_-PUD1&index=22) and use the code here to add it to your app!
+We connect Creator to an API (A Google Spreadsheet with [Sheetsu](https://sheetsu.com/pricing?ionic=is-awesome)) to store our data using Angular $http. In Part 2 we add GET, DELETE, and QUERY features to the app. Follow along with the [video tutorial](https://www.youtube.com/watch?v=ZvF2_ZpqZpk&list=PLOMESIqyrpf-rpNjFGzuCoTwNdv_-PUD1&index=22) and use the code here to add it to your app!
