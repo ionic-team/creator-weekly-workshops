@@ -27,3 +27,6 @@ We add GET, DELETE, and QUERY to our [Sheetsu](https://sheetsu.com/pricing?ionic
 
 ## Toggling Content with Button Bars ([YouTube](https://www.youtube.com/watch?v=6lgQTrbb2cc&index=23&list=PLOMESIqyrpf-rpNjFGzuCoTwNdv_-PUD1), [Code](09-toggling-content))
 Use a $scope variable to toggle between different sets of content with a Button Bar. We also use a Toggle to show and hide content.
+
+## Making a Searchable Video Library ([YouTube](), [Code](10-making-a-searchable-video-library))
+Make the Search Component actually function by searching through a list of video names and descriptions. We also use a Toggle to show and hide content.
